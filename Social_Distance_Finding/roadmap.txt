@@ -1,0 +1,6 @@
+1. A SOTA model to detect object  
+2. Test that model i.e. visualize its detections.   
+3. After testing the model, write and test a function that gives me a list which contains the bbox of objects after NMS and image(resized or original). (for one image) i.e. [[obj1], [obj2], [obj3]]
+4. Then write and test a function to calculate distance between objects.
+    Compare that calculated distance with threshold distance and draw the bboxes and line accordingly.
+    write/show the image.
